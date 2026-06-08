@@ -1,0 +1,36 @@
+# socialmediamananger.ai
+
+> Social media management — DOMAIN HAS TYPO 'mananger' (let expire).
+> Open. Transparent. Governed.
+
+## Key facts
+
+- **Domain:** socialmediamananger.ai
+- **Tier:** expire
+- **MCP endpoint:** https://socialmediamananger.ai/mcp (streamable-HTTP, MCP 1.27.2)
+- **A2A Agent Card:** https://socialmediamananger.ai/.well-known/agent-card.json
+- **Open source:** https://github.com/CSOAI-ORG/socialmediamananger-hive (MIT)
+- **Pricing (x402 micro-call):** Free
+- **Pricing (SaaS tier):** Freemium
+- **Memory mode:** shared
+- **Knowledge subgraph scope:** (none — let expire at renewal)
+
+## Tools exposed (MCP)
+
+- (none yet)
+
+## Cross-hive integrations
+
+- (none)
+
+## Brand
+
+- **Palette:** social purple + share blue
+- **Voice:** Quiet — domain typo kills brand.
+
+## Sources
+
+- Hive architecture: https://github.com/CSOAI-ORG/meok-compliance-gateway/blob/main/FLEET_BASE.md
+- Global strategy: see the MEOK memory file meok-global-strategy-2026-06-07
+- Crown jewels: see the MEOK memory file meok-crown-jewels-2026-06-07
+- GEO strategy: see the MEOK memory file meok-geo-strategy-2026-06-07
