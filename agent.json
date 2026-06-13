@@ -1,0 +1,36 @@
+{
+  "name": "socialmediamananger.ai",
+  "description": "Social media management \u2014 DOMAIN HAS TYPO 'mananger' (let expire).",
+  "url": "https://socialmediamananger.ai",
+  "provider": {
+    "organization": "CSOAI LTD (UK Companies House 16939677)",
+    "url": "https://csoai.org"
+  },
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": false,
+    "pushNotifications": false
+  },
+  "defaultInputModes": [
+    "text"
+  ],
+  "defaultOutputModes": [
+    "text"
+  ],
+  "skills": [
+    {
+      "id": "governance-check",
+      "name": "socialmediamananger.ai Governance Check",
+      "description": "Verify compliance against socialmediamananger.ai frameworks."
+    },
+    {
+      "id": "attestation",
+      "name": "Signed Attestation",
+      "description": "Generate HMAC-signed compliance certs for socialmediamananger.ai."
+    }
+  ],
+  "endpoints": {
+    "catalogue": "https://www.proofof.ai",
+    "standards": "https://csoai.org"
+  }
+}

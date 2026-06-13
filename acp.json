@@ -1,0 +1,19 @@
+{
+  "acpVersion": "0.1",
+  "agent": {
+    "name": "socialmediamananger",
+    "description": "Social media management \u2014 DOMAIN HAS TYPO 'mananger' (let expire).",
+    "version": "0.1.0",
+    "provider": "CSOAI-ORG",
+    "interfaces": [
+      {
+        "type": "a2a",
+        "url": "https://socialmediamananger.ai"
+      }
+    ],
+    "capabilities": [
+      "a2a-mesh",
+      "memoria-commit"
+    ]
+  }
+}
